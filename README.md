@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adventuresin9
-- 👀 I’m interested in Plan 9 !
-- 🌱 I’m currently learning that lots of people confuse epistemology for ontology.
-- 💞️ I’m looking to collaborate on stuff.
-- 📫 How to reach me is a good question.
+
+Most of these projects are part of a video series I am making.
+view them at;
+https://www.youtube.com/channel/UC7qFfPYl0t8Cq7auyblZqxA
 
 <!---
 adventuresin9/adventuresin9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
